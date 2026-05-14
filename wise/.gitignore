@@ -1,0 +1,15 @@
+/backups
+/temp_update
+/logs
+/ycclogs
+/caching
+/fromfolder
+/tmp
+/db/*.db
+/db/*.db-shm
+/db/*.db-wal
+bases/update.txt
+bases/*.mmdb
+bases/test.txt
+agents.md
+migrate_userid_clickid.php

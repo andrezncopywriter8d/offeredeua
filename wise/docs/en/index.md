@@ -1,0 +1,22 @@
+# YellowCloaker Documentation
+
+This is the main product, admin, and runtime documentation for YellowCloaker.
+
+## Contents
+
+- [Overview](overview.md)
+- [How It Works](how-it-works.md)
+- [Admin Login](admin-login.md)
+- [Admin Panel](admin-panel.md)
+- [Campaigns](campaigns.md)
+- [Campaign Settings](campaign-settings.md)
+- [White Settings](white-settings.md)
+- [Black Settings and Flows](black-settings-and-flows.md)
+- [Scripts](scripts.md)
+- [Postbacks](postbacks.md)
+- [Statistics](statistics.md)
+- [Clicks and Views](clicks-and-views.md)
+- [API and Endpoints](api-and-endpoints.md)
+- [Testing and Diagnostics](testing-and-diagnostics.md)
+- [Troubleshooting and FAQ](troubleshooting-and-faq.md)
+

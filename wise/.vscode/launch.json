@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PHP Built-in Server",
+            "type": "php",
+            "request": "launch",
+            "runtimeArgs": [
+                "-S", "localhost:8005",
+                "-d", "upload_max_filesize=256M",
+                "-d", "post_max_size=256M",
+                "-d", "max_execution_time=300"
+            ],
+            "cwd": "${workspaceFolder}",
+            "port": 8005
+        }
+    ]
+}
